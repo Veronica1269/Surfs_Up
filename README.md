@@ -18,18 +18,16 @@ The goal of this analysis is to investigate temperature variations on the Hawaii
 Below is the temperatures for the month of June: 
 
 
-	- June had a min of **64.00**, max of **85.0** and a mean of **74.9**. 
+- June had a min of **64.00**, max of **85.0** and a mean of **74.9**. 
 
-	![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/June%20Temperatures.png "June Temperatures")
-
+![June_Temperatures](Resources/June_Temperatures.png)
 
 
 The following table is the temperatures for the month of December:
 
+- December had a min of **56.00**, max of **83.0** and a mean of **71.0**. 
 
-	-December had a min of **56.00**, max of **83.0** and a mean of **71.0**. 
-
-	![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/December%20Temperatures.png "December Temperatures")
+![December_Temperatures](Resources/December_Temperatures.png)
 
 
 
